@@ -20,3 +20,7 @@ print(text)
 # boolean
 print(bool(25))
 print(bool(5>8))
+
+# length of string
+a= "hello, world!"
+print(a[2])

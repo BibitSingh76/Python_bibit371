@@ -61,3 +61,11 @@ nested =[[2,3],[2,5]] #nested list
 print(mixed[2])
 for i in numbers:
     print(i)
+
+#string are arrays
+a= "hello, world!"
+for it in a:
+    print(it)
+# length of string
+print(len(a))
+
